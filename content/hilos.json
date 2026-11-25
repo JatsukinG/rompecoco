@@ -1,0 +1,77 @@
+{
+  "$comment": "Tableros de Hilos. Cada tablero es de 6 columnas x 8 filas = 48 letras: la suma de las letras de 'eje' + 'words' debe ser 48 (sin contar tildes). Después de editar: pnpm puzzles:hilos",
+  "puzzles": [
+    {
+      "id": "cocina",
+      "clue": "Manos a la obra en la cocina",
+      "eje": "utensilios",
+      "words": ["cuchara", "tenedor", "sartén", "cuchillo", "espumadera"]
+    },
+    {
+      "id": "frutas",
+      "clue": "Un postre bien fresco",
+      "eje": "macedonia",
+      "words": ["manzana", "plátano", "naranja", "fresa", "mango", "kiwi", "pera"]
+    },
+    {
+      "id": "mar",
+      "clue": "Allá abajo, donde no llega el sol",
+      "eje": "profundidades",
+      "words": ["pulpo", "ballena", "medusa", "tiburón", "delfín", "foca"]
+    },
+    {
+      "id": "musica",
+      "clue": "Que suene la música",
+      "eje": "orquesta",
+      "words": ["guitarra", "violín", "piano", "tambor", "flauta", "arpa", "chelo"]
+    },
+    {
+      "id": "clima",
+      "clue": "¿Saco el paraguas?",
+      "eje": "pronóstico",
+      "words": ["lluvia", "viento", "trueno", "granizo", "nube", "relámpago"]
+    },
+    {
+      "id": "parque",
+      "clue": "Una tarde de juegos al aire libre",
+      "eje": "columpios",
+      "words": ["tobogán", "arenero", "banco", "fuente", "paloma", "subibaja"]
+    },
+    {
+      "id": "deportes",
+      "clue": "A sudar la camiseta",
+      "eje": "competencia",
+      "words": ["fútbol", "tenis", "boxeo", "natación", "ciclismo", "rugby"]
+    },
+    {
+      "id": "oficios",
+      "clue": "¿Qué quieres ser de grande?",
+      "eje": "oficios",
+      "words": ["médico", "bombero", "maestro", "panadero", "pintor", "cartero"]
+    },
+    {
+      "id": "espacio",
+      "clue": "Más allá del cielo",
+      "eje": "astronauta",
+      "words": ["planeta", "cometa", "galaxia", "estrella", "luna", "cohete"]
+    },
+    {
+      "id": "selva",
+      "clue": "Calor, humedad y mucho verde",
+      "eje": "tropical",
+      "words": ["jaguar", "tucán", "mono", "serpiente", "loro", "perezoso", "rana"]
+    },
+    {
+      "id": "colores",
+      "clue": "Después de la lluvia",
+      "eje": "arcoíris",
+      "words": ["rojo", "naranja", "amarillo", "verde", "azul", "morado", "índigo"]
+    },
+    {
+      "id": "cumple",
+      "clue": "¡Que lo cumplas feliz!",
+      "eje": "celebración",
+      "words": ["pastel", "globos", "velitas", "regalo", "piñata", "fiesta"]
+    }
+  ]
+}
